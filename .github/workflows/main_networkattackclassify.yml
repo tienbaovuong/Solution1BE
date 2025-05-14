@@ -68,4 +68,4 @@ jobs:
         with:
           app-name: 'networkattackclassify'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_55EFD5D9D3D848F09117EAA57A27825A }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_2C2E241749EA4972B796F4915616E6F5 }}
